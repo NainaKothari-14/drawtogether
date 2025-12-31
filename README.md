@@ -22,7 +22,7 @@ A real-time collaborative whiteboard app built with React, Vite, and Tailwind CS
 
 1. **Clone the repository:**
 
-````bash git clone https://github.com/NainaKothari-14/drawtogether.git `````
+````bash git clone https://github.com/NainaKothari-14/drawtogether.git````
 
 2. Install dependencies:
 
