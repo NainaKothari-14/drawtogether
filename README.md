@@ -26,12 +26,12 @@ A real-time collaborative whiteboard app built with React, Vite, and Tailwind CS
 
 2. Install dependencies:
 
-cd drawtogether
-npm install
+````cd drawtogether````
+````npm install````
 
 3. Run the app locally:
 
-npm run dev
+````npm run dev````
 
 4. Open your browser at the address shown in the terminal (usually http://localhost:5173)
 
