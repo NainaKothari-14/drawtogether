@@ -19,7 +19,10 @@ A real-time collaborative whiteboard app built with React, Vite, and Tailwind CS
 - Version Control: Git & GitHub
 
 ## Installation
-1. Clone the repository:
+
+1. **Clone the repository:**
+
+```bash
 git clone https://github.com/NainaKothari-14/drawtogether.git
 
 2. Install dependencies:
