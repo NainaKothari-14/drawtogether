@@ -27,6 +27,7 @@ A real-time collaborative whiteboard app built with React, Vite, and Tailwind CS
 2. Install dependencies:
 
 ````cd drawtogether````
+
 ````npm install````
 
 3. Run the app locally:
@@ -52,7 +53,7 @@ A real-time collaborative whiteboard app built with React, Vite, and Tailwind CS
 ### Join Existing Board
 ![Join Existing Board](screenshots/joinExistingboard.png)
 ### Collaborative Drawing
-![Collaborative Drawing](screenshots/collaborative drawing.png)
+![Collaborative Drawing](screenshots/collaborative%20drawing.png)
 
 ## Contributing
 Contributions are welcome!  
