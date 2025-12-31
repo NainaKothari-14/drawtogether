@@ -45,15 +45,20 @@ A real-time collaborative whiteboard app built with React, Vite, and Tailwind CS
 
 ## Screenshots
 ### Board
-![Board](screenshots/paintboard.png)
+<img src="screenshots/paintboard.png" alt="Board" width="400"/>
+
 ### Toolbar
-![Toolbar](screenshots/toolbar.png)
+<img src="screenshots/toolbar.png" alt="Toolbar" width="400"/>
+
 ### Joining a Board
-![Joining](screenshots/joining.png)
+<img src="screenshots/joining.png" alt="Joining a Board" width="400"/>
+
 ### Join Existing Board
-![Join Existing Board](screenshots/joinExistingboard.png)
+<img src="screenshots/joinExistingboard.png" alt="Join Existing Board" width="400"/>
+
 ### Collaborative Drawing
-![Collaborative Drawing](screenshots/collaborative%20drawing.png)
+<img src="screenshots/collaborative%20drawing.png" alt="Collaborative Drawing" width="400"/>
+
 
 ## Contributing
 Contributions are welcome!  
